@@ -1,4 +1,3 @@
-
 \documentclass[12]{article}
 \usepackage[utf8x]{inputenc}
 \usepackage{graphicx}
