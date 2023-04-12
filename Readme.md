@@ -1,6 +1,14 @@
 ## Motivation
 
-The 20 Billion dollar hair care industry has the opportunity to evolve and differentiate to meet the needs of today’s high-tech, on-the-move users. Hair salons that appeal to these users must satisfy them by offering a differentiating level of service. With this project, we have attempted to address this challenge by developing a hairstyle recommendation system that identifies the user’s face shape and recommends the most flattering hairstyle that celebrities with similar face shape have used.
+Personal preference: Some people may seek hair style recommendations simply because they are looking for a change and want a new look that suits their personal taste.
+
+Professional image: Others may be looking for a hair style that will enhance their professional image, such as a job interview or a business meeting.
+
+Special occasion: Some people may be preparing for a special occasion, such as a wedding or a prom, and want a hair style that will complement their outfit and make them feel confident.
+
+Hair type and face shape: Hair style recommendations may also be made based on the individual's hair type and face shape, as certain styles may be more flattering than others.
+
+Cultural or societal norms: Hair style recommendations may also be influenced by cultural or societal norms, such as certain hairstyles being considered more appropriate for certain occasions or professions.
 
 ## Introduction
  
